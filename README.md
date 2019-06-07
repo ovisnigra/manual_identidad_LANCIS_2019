@@ -82,7 +82,7 @@ Fuentes tipográficas Pa la documentación generada por el laboratorio, se propo
 
 ![](logo_LANCIS_area_de_proteccion_01.png)
 
-![](logo_LANCIS_area_de_proteccion_01.png)
+![](logo_LANCIS_area_de_proteccion_02.png)
 
 
 - - -
