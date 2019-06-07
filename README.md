@@ -30,6 +30,15 @@ Este enlace tiene la particularidad de que un aro une a los otros dos, es decir,
 Aunque su forma se inspire en elementos orgánicos (guijarros, hojas, gotas de agua), el logotipo del lancis es completamente abstracto. Retoma, sin embargo, la forma topológica de los aros borromeos para aprovechar las múltiples alegorías e interpretaciones que pueden derivarse de esta figura como símbolo de unión. En el ámbito de las Ciencias de la Sostenibilidad hay varias interpretaciones posibles. Tres ámbitos: biológico, económico y social; tres actores: gobierno, sociedad y academia; así como un laboratorio inicialmete conformado por tres unidades de investigación.
 El logotipo, como ya dijimos, es una abstracción, no pretendemos que se deduzcan todas estas interpretaciones por sí solas, se trata solo de la visión que deseamos privilegiar y difundir.
 
+**[FIGURAS. Las tres versiones del logotipo: Principal, extendida y vertical]**
+
+**Principal**
+
+![](logo_lancis_chico.png)
+
+<br>
+**Extendida**
+
 
 - - -
 
@@ -39,7 +48,7 @@ El logotipo esta compuesto por dos elementos inseparables: el símbolo y la tipo
 
 ![](logo_LANCIS_elementos_terminologia_01.png)
 
-En una versión extendida del logotipo, utilizaremos además, una pleca vertical y otro elemento tipográfico que resulta de poner el nombre completo de la institución.
+En la versión extendida del logotipo, utilizaremos además, una pleca vertical y otro elemento tipográfico que resulta de poner el nombre completo de la institución.
 
 ![](logo_LANCIS_elementos_terminologia_02.png)
 
@@ -47,9 +56,7 @@ En una versión extendida del logotipo, utilizaremos además, una pleca vertical
 
 # Colores
 
-Existen múltiples modos de  presentar valores de color, dos de los principales son el modelo CMYK, que nos permite imprimir colores y el modelo RGB, que nos permite verlos en pantalla. El primero son colores pigmento, es decir, las cuatro tintas usadas en los procesos industriales de impresión (cian, magenta, amarillo y negro). El segundo son colores luz, es decir, las tres longitudes de onda primarias del espectro visible por el ojo humano: rojo, verde y azul.
-
-Presentamos los valores para cada uno de estos modelos, así como la equivalencia en el catálogo Pantone® (Pantone Matching System®) y en sistema hexadecimal.
+Presentamos los valores para cada uno de los principales modelos de color. **[REDACTAR sobre cuál usar]**
 
 ![](logo_LANCIS_colores.png)
 
@@ -59,7 +66,7 @@ Presentamos los valores para cada uno de estos modelos, así como la equivalenci
 
 # Proporciones
 
-Se muestran las proporciones y la retícula de las diversas versiones del logotipo, tomando como módulo (x) la altura de una mayúscula.
+Se muestran las proporciones y la retícula de tres versiones del logotipo, tomando como módulo (x) la altura de una mayúscula.
 
 ![](logo_LANCIS_proporciones_01.png)
 
@@ -72,6 +79,11 @@ Se muestran las proporciones y la retícula de las diversas versiones del logoti
 
 El área de protección es el espacio mínimo que debe quedar libre alrededor del logotipo, esto con la finalidad de que se lea bien y visualmente no compita cuando se use junto con otros logotipos o algún otro elemento de diseño.
 Fuentes tipográficas Pa la documentación generada por el laboratorio, se propone el uso de dos fuentes tipográficas: Cronos Pro y Chaparral Pro. Mayores detalles sobre su uso correcto se darán en las plantillas propuestas, anexas a este documento.
+
+![](logo_LANCIS_area_de_proteccion_01.png)
+
+![](logo_LANCIS_area_de_proteccion_01.png)
+
 
 - - -
 
