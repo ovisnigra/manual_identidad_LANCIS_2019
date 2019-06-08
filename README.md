@@ -32,9 +32,7 @@ El logotipo, como ya dijimos, es una abstracción, no pretendemos que se deduzca
 
 **[FIGURAS. Las tres versiones del logotipo: Principal, extendida y vertical]**
 
-**Principal**
-
-![](logo_lancis_chico.png)
+![_Figura 1. Logotipo principal_](logo_lancis_chico.png)
 
 <br>
 **Extendida**
@@ -46,11 +44,11 @@ El logotipo, como ya dijimos, es una abstracción, no pretendemos que se deduzca
 
 El logotipo esta compuesto por dos elementos inseparables: el símbolo y la tipografía. Es importante comprender esta idea de unidad ya que nunca se presentan dichos elementos por separado.
 
-![](logo_LANCIS_elementos_terminologia_01.png)
+![_Figura 2. Elementos y terminología del logotipo_](logo_LANCIS_elementos_terminologia_01.png)
 
 En la versión extendida del logotipo, utilizaremos además, una pleca vertical y otro elemento tipográfico que resulta de poner el nombre completo de la institución.
 
-![](logo_LANCIS_elementos_terminologia_02.png)
+![_Figura 3. Elementos en la versión extendida_](logo_LANCIS_elementos_terminologia_02.png)
 
 - - -
 
@@ -58,7 +56,7 @@ En la versión extendida del logotipo, utilizaremos además, una pleca vertical 
 
 Presentamos los valores para cada uno de los principales modelos de color. **[REDACTAR sobre cuál usar]**
 
-![](logo_LANCIS_colores.png)
+![_Figura 4. Colores_](logo_LANCIS_colores.png)
 
 **REDACTAR** El uso de cada modo dependerá de las necesidades particulares de...
 
@@ -68,11 +66,11 @@ Presentamos los valores para cada uno de los principales modelos de color. **[RE
 
 Se muestran las proporciones y la retícula de tres versiones del logotipo, tomando como módulo (x) la altura de una mayúscula.
 
-![](logo_LANCIS_proporciones_01.png)
+![_Figura 5. Proporciones del logotipo principal_](logo_LANCIS_proporciones_01.png)
 
-![](logo_LANCIS_proporciones_02.png)
+![_Figura 6. Proporciones de la versión extendida_](logo_LANCIS_proporciones_02.png)
 
-![](logo_LANCIS_proporciones_03.png)
+![_Figura 7. Proporciones de la versión vertical_](logo_LANCIS_proporciones_03.png)
 
 
 # Área de protección
@@ -80,11 +78,11 @@ Se muestran las proporciones y la retícula de tres versiones del logotipo, toma
 El área de protección es el espacio mínimo que debe quedar libre alrededor del logotipo, esto con la finalidad de que se lea bien y visualmente no compita cuando se use junto con otros logotipos o algún otro elemento de diseño.
 Fuentes tipográficas Pa la documentación generada por el laboratorio, se propone el uso de dos fuentes tipográficas: Cronos Pro y Chaparral Pro. Mayores detalles sobre su uso correcto se darán en las plantillas propuestas, anexas a este documento.
 
-![](logo_LANCIS_area_de_proteccion_01.png)
+![_Figura 8. Área de protección_](logo_LANCIS_area_de_proteccion_01.png)
 
-![](logo_LANCIS_area_de_proteccion_02.png)
+![_Figura 9. Área de protección. Ejemplo_](logo_LANCIS_area_de_proteccion_02.png)
 
-
+v
 - - -
 
 # Fuentes tipográficas
