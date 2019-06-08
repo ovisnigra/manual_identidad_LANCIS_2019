@@ -47,7 +47,7 @@ En una versión extendida del logotipo, utilizaremos además, una pleca vertical
 
 # Colores
 
-Existen múltiples modos de  presentar valores de color, dos de los principales son el modelo CMYK, que nos permite imprimir colores y el modelo RGB, que nos permite verlos en pantalla. El primero son colores pigmento, es decir, las cuatro tintas usadas en los procesos industriales de impresión (cian, magenta, amarillo y negro). El segundo son colores luz, es decir, las tres longitudes de onda primarias del espectro visible por el ojo humano: rojo, verde y azul.
+Existen múltiples modos de  presentar valores de color, dos de los principales son el modelo CMYK (que nos permite imprimir colores) y el modelo RGB (que nos permite verlos en pantalla). El primero son colores pigmento, es decir, las cuatro tintas usadas en los procesos industriales de impresión (cian, magenta, amarillo y negro). El segundo son colores luz, es decir, las tres longitudes de onda primarias del espectro visible por el ojo humano: rojo, verde y azul.
 
 Presentamos los valores para cada uno de estos modelos, así como la equivalencia en el catálogo Pantone® (Pantone Matching System®) y en sistema hexadecimal.
 
