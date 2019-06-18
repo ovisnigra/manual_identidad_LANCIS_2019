@@ -26,12 +26,14 @@ Este enlace tiene la particularidad de que un aro une a los otros dos, es decir,
 
 Aunque su forma se inspire en elementos orgánicos (guijarros, hojas, gotas de agua), el logotipo es completamente abstracto; sin embargo, retoma la forma topológica de los aros borromeos para aprovechar las múltiples alegorías e interpretaciones que pueden derivarse de esta figura como símbolo de unión. En el ámbito de las Ciencias de la Sostenibilidad hay varias interpretaciones posibles. Tres ámbitos: biológico, económico y social; tres actores: gobierno, sociedad y academia; así como un laboratorio inicialmete conformado por tres unidades de investigación. El logotipo, como ya dijimos, es una abstracción, todas estas interpretaciones no se deducen por sí solas, más bien proveendrán de nuestra propia visión institucional.
 
-Se cuenta con tres versiones principales. Con ellas se pretende cubrir una variedad razonable de situaciones. Las dos primeras son las de uso preferido:
+Se cuenta con dos versiones principales: el logotipo oficial y la versión extendida con el nombre completo de la institución.
 
 ![](logo_LANCIS_variantes_01.png)
 
-<br>
-- - -
+La versión extendida vertical podrá usarse solo cuando la disposición horizontal no convenga a la composición.
+
+![](logo_LANCIS_variantes_02.png)
+
 
 # Elementos y terminología básica
 
@@ -43,7 +45,6 @@ En la versión extendida del logotipo, utilizaremos además, una pleca vertical 
 
 ![](logo_LANCIS_elementos_terminologia_02.png)
 
-- - -
 
 # Colores
 
@@ -53,27 +54,23 @@ Presentamos los valores para cada uno de los principales modelos de color.
 
 La elección de cada modelo dependerá del destino final que se requiera. En general, el catálogo Pantone y el modelo CMYK (valores de cian, magenta, amarillo y negro), se usan en procesos de impresión; mientras que hexadecimal y RGB (rojo, verde, azul), se usan para desplegar en pantalla.
 
-- - -
 
 # Proporciones
 
 Se muestran las proporciones y la retícula de tres versiones del logotipo, tomando como módulo (x) la altura de una mayúscula.
 
 ![](logo_LANCIS_proporciones_01.png)
-<br>
 
 ![](logo_LANCIS_proporciones_02.png)
-<br>
 
 ![](logo_LANCIS_proporciones_03.png)
 
 
 # Área de protección
 
-El área de protección es el espacio _mínimo_ que debe quedar libre alrededor del logotipo, esto con la finalidad de que se _lea_ bien y visualmente no compita cuando se use junto con otros logotipos o algún otro elemento de diseño.
+El área de protección es el espacio mínimo que debe quedar libre alrededor del logotipo, esto con la finalidad de que se lea bien y visualmente no compita cuando se use junto con otros logotipos o elementos de diseño.
 
 ![](logo_LANCIS_area_de_proteccion_01.png)
-<br>
 
 ![](logo_LANCIS_area_de_proteccion_02.png)
 
@@ -81,37 +78,49 @@ El área de protección es el espacio _mínimo_ que debe quedar libre alrededor 
 
 # Variantes permitidas
 
-Como ya se mencionó, se deberá privilegiar la versión en color sobre fondo blanco y la disposición horizontal. La versión extendida vertical podrá usarse cunado la disposición horizontal no convenga a la composición.
+Se deberá privilegiar la versión en color sobre fondo blanco y la disposición horizontal.
 
 ![](logo_LANCIS_variantes_01.png)
 
-Asímismo, en casos especiales que así lo requieran, se permitirá el uso de versiones en blanco (calada) o negro. **Se prefiere no usar las versiones extendidas en estas variantes.**
+La versión extendida vertical, como ya se mencionó, será de uso excepcional y podrá usarse solo cuando la disposición horizontal no convenga a la composición.
 
-![calada](logo_LANCIS_version_calada.png)
+![](logo_LANCIS_variantes_02.png)
 
-![negro](logo_LANCIS_versiones_negro.png)
+En casos que así lo requieran, se permitirá el uso de versiones en blanco sobre fondo oscuro (calada).
 
+![](logo_LANCIS_variantes_03.png)
 
-- - -
+![](logo_LANCIS_variantes_04.png)
+
+ Asímismo se consideran las variantes monocromáticas en negro sobre fondo claro.
+
+![](logo_LANCIS_variantes_05.png)
+
 
 # Usos incorrectos
 
 Parte importante de este manual consiste en especificar qué usos del logotipo **no** están permitidos. A continuación se muestran algunos de los casos más importantes:
 
-- Usar colores en escala de grises
-- Cambiar o modificar colores
-- Modificar Proporciones
-- Inclinar
-- Usar símbolo sin tipografía y viceversa
-- Modificar la tipografía
-- Cambiar la fuente tipográfica
-- Añadir elementos (como marcos, plecas, etc.)
-- Agregar sombras o efectos
-- Usar como patrón repetido
-- Usar sobre un fondo que no sea contínuo
-- Darle en la madre
+- No usar colores en escala de grises ni cambiar o modificar colores
+![](logo_LANCIS_usos_incorrectos_01.png)
 
----
+- No modificar proporciones
+![](logo_LANCIS_usos_incorrectos_02.png)
+
+- No inclinar
+![](logo_LANCIS_usos_incorrectos_03.png)
+
+- No usar el símbolo sin la tipografía, modificar la tipografía o cambiar la fuente tipográfica
+![](logo_LANCIS_usos_incorrectos_04.png)
+
+
+- No añadir elementos (como marcos, plecas, etc.) o agregar sombras o efectos
+![](logo_LANCIS_usos_incorrectos_05.png)
+
+- No usar como patrón repetido o calar sobre un fondo que no sea contínuo
+![](logo_LANCIS_usos_incorrectos_06.png)
+
+
 
 # Fuentes tipográficas
 
