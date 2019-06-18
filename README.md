@@ -12,34 +12,25 @@ El propósito del presente manual es servir como guía de uso de la imagen insti
 
 ## El enlace borromeo
 
-Aunque en ocasiones se le llame nudo borromeo, topológicamente se trata de un enlace, por estar formado de más de un elemento. El enlace borromeo debe su nombre a la familia italiana que desde el siglo xv lo utilizó en su escudo de armas. El uso de este símbolo en la península italiana parece remontarse a un emblema de la ciudad de Cremona, de donde lo tomó Francesco Sforza para posteriormente otorgarlo a la familia Borromeo, en reconocimiento por su ayuda en la defensa de Milán (ca. 1450).
+Aunque en ocasiones se le llame _nudo_ borromeo, se trata de un enlace, ya que está formado por más de un elemento. El enlace borromeo debe su nombre a la familia italiana que desde el siglo XV lo utilizó en su escudo de armas. El uso de este símbolo en la península italiana parece remontarse a un emblema de la ciudad de Cremona, de donde lo tomó Francesco Sforza para posteriormente otorgarlo a la familia Borromeo, en reconocimiento por su ayuda en la defensa de Milán (ca. 1450).
 
-Al igual que muchos símbolos de la humanidad, la aparición de este enlace es recurrente en distintas culturas y tiempos; el Valknut, por poner un ejemplo, es un símbolo nórdico formado por tres triángulos entrelazados a manera de aros borromeos utilizado en Suecia desde el siglo IX.
+Al igual que muchas formas y símbolos de la humanidad, es posible encontrar enlaces de este tipo en figuras pertenecientes a distintas culturas y tiempos. El _Valknut,_ por ejemplo, es un símbolo nórdico formado por tres triángulos entrelazados a manera de aros borromeos; se utilizó en Suecia desde el siglo IX.
 
-| Enlace  | Cremona (Siglo xv)  | Valknut (Siglo IX) | Una versión moderna  |
-|:---:| :---: | :---: | :---: |
-| ![](enlace_borromeo.gif) | ![](cremona.jpg) | ![](valknut.svg.png) |  ![](clip_borromeo.jpg) |
-
+![](logo_LANCIS_enlaces_borromeos.png)
 
 
 Este enlace tiene la particularidad de que un aro une a los otros dos, es decir, si retiramos uno, los otros dos dejan de estar unidos. Es por esto que se ha usado como representación de la _fuerza mediante la unión._
 
 
-## El logotipo del LANCIS
+# El logotipo del LANCIS
 
-Aunque su forma se inspire en elementos orgánicos (guijarros, hojas, gotas de agua), el logotipo del lancis es completamente abstracto. Retoma, sin embargo, la forma topológica de los aros borromeos para aprovechar las múltiples alegorías e interpretaciones que pueden derivarse de esta figura como símbolo de unión. En el ámbito de las Ciencias de la Sostenibilidad hay varias interpretaciones posibles. Tres ámbitos: biológico, económico y social; tres actores: gobierno, sociedad y academia; así como un laboratorio inicialmete conformado por tres unidades de investigación.
-El logotipo, como ya dijimos, es una abstracción, no pretendemos que se deduzcan todas estas interpretaciones por sí solas, se trata solo de la visión que deseamos privilegiar y difundir.
+Aunque su forma se inspire en elementos orgánicos (guijarros, hojas, gotas de agua), el logotipo es completamente abstracto; sin embargo, retoma la forma topológica de los aros borromeos para aprovechar las múltiples alegorías e interpretaciones que pueden derivarse de esta figura como símbolo de unión. En el ámbito de las Ciencias de la Sostenibilidad hay varias interpretaciones posibles. Tres ámbitos: biológico, económico y social; tres actores: gobierno, sociedad y academia; así como un laboratorio inicialmete conformado por tres unidades de investigación. El logotipo, como ya dijimos, es una abstracción, todas estas interpretaciones no se deducen por sí solas, más bien proveendrán de nuestra propia visión institucional.
 
-**[FIGURAS. Las tres versiones del logotipo: Principal, extendida y vertical]**
+Se cuenta con tres versiones principales. Con ellas se pretende cubrir una variedad razonable de situaciones. Las dos primeras son las de uso preferido:
 
-**Principal**
-
-![](logo_lancis_chico.png)
+![](logo_LANCIS_variantes_01.png)
 
 <br>
-**Extendida**
-
-
 - - -
 
 # Elementos y terminología básica
@@ -56,11 +47,11 @@ En la versión extendida del logotipo, utilizaremos además, una pleca vertical 
 
 # Colores
 
-Presentamos los valores para cada uno de los principales modelos de color. **[REDACTAR sobre cuál usar]**
+Presentamos los valores para cada uno de los principales modelos de color.
 
-![](logo_LANCIS_colores.png)
+![colores](logo_LANCIS_colores.png)
 
-**REDACTAR** El uso de cada modo dependerá de las necesidades particulares de...
+La elección de cada modelo dependerá del destino final que se requiera. En general, el catálogo Pantone y el modelo CMYK (valores de cian, magenta, amarillo y negro), se usan en procesos de impresión; mientras que hexadecimal y RGB (rojo, verde, azul), se usan para desplegar en pantalla.
 
 - - -
 
@@ -69,27 +60,62 @@ Presentamos los valores para cada uno de los principales modelos de color. **[RE
 Se muestran las proporciones y la retícula de tres versiones del logotipo, tomando como módulo (x) la altura de una mayúscula.
 
 ![](logo_LANCIS_proporciones_01.png)
+<br>
 
 ![](logo_LANCIS_proporciones_02.png)
+<br>
 
 ![](logo_LANCIS_proporciones_03.png)
 
 
 # Área de protección
 
-El área de protección es el espacio mínimo que debe quedar libre alrededor del logotipo, esto con la finalidad de que se lea bien y visualmente no compita cuando se use junto con otros logotipos o algún otro elemento de diseño.
-Fuentes tipográficas Pa la documentación generada por el laboratorio, se propone el uso de dos fuentes tipográficas: Cronos Pro y Chaparral Pro. Mayores detalles sobre su uso correcto se darán en las plantillas propuestas, anexas a este documento.
+El área de protección es el espacio _mínimo_ que debe quedar libre alrededor del logotipo, esto con la finalidad de que se _lea_ bien y visualmente no compita cuando se use junto con otros logotipos o algún otro elemento de diseño.
 
 ![](logo_LANCIS_area_de_proteccion_01.png)
+<br>
 
 ![](logo_LANCIS_area_de_proteccion_02.png)
+
+- - -
+
+# Variantes permitidas
+
+Como ya se mencionó, se deberá privilegiar la versión en color sobre fondo blanco y la disposición horizontal. La versión extendida vertical podrá usarse cunado la disposición horizontal no convenga a la composición.
+
+![](logo_LANCIS_variantes_01.png)
+
+Asímismo, en casos especiales que así lo requieran, se permitirá el uso de versiones en blanco (calada) o negro. **Se prefiere no usar las versiones extendidas en estas variantes.**
+
+![calada](logo_LANCIS_version_calada.png)
+
+![negro](logo_LANCIS_versiones_negro.png)
 
 
 - - -
 
+# Usos incorrectos
+
+Parte importante de este manual consiste en especificar qué usos del logotipo **no** están permitidos. A continuación se muestran algunos de los casos más importantes:
+
+- Usar colores en escala de grises
+- Cambiar o modificar colores
+- Modificar Proporciones
+- Inclinar
+- Usar símbolo sin tipografía y viceversa
+- Modificar la tipografía
+- Cambiar la fuente tipográfica
+- Añadir elementos (como marcos, plecas, etc.)
+- Agregar sombras o efectos
+- Usar como patrón repetido
+- Usar sobre un fondo que no sea contínuo
+- Darle en la madre
+
+---
+
 # Fuentes tipográficas
 
-TXT
+**PENDIENTE** Para la documentación generada por el laboratorio, se propone el uso de dos fuentes tipográficas: Cronos Pro y Chaparral Pro. Mayores detalles sobre su uso correcto se darán en las plantillas propuestas, anexas a este documento.
 
 ## Cronos Pro
 
@@ -102,23 +128,3 @@ La fuente Cronos Pro, es una fuente tipográfica en formato OpenType que contien
 La fuente Chaparral Pro, es una fuente tipográfica en formato OpenType que contiene una gama muy amplia de pesos y variantes. Se propone su uso en cuerpo de texto. Deben combinarse los pesos de la siguiente manera:
 
 Light - Semibold.  Regular - Bold.
-
-
-- - -
-
-
-
-# Variantes permitidas
-
-
-Las distintas variantes responderán a los distintos usos que se den del logotipo. Se deberá privilegiar la versión en color sobre fondo blanco y en disposición horizontal.
-
-
-
-- - -
-
-# Usos incorrectos
-
-
-
-Parte importante de este manual consiste en especificar qué usos del logotipo **no** están permitidos. A continuación se muestran los casos más importantes:
