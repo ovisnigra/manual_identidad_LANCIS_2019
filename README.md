@@ -50,7 +50,7 @@ En la versión extendida del logotipo, utilizaremos además, una pleca vertical 
 
 Presentamos los valores para cada uno de los principales modelos de color.
 
-![colores](logo_LANCIS_colores.png)
+![](logo_LANCIS_colores.png)
 
 La elección de cada modelo dependerá del destino final que se requiera. En general, el catálogo Pantone y el modelo CMYK (valores de cian, magenta, amarillo y negro), se usan en procesos de impresión; mientras que hexadecimal y RGB (rojo, verde, azul), se usan para desplegar en pantalla.
 
@@ -74,25 +74,26 @@ El área de protección es el espacio mínimo que debe quedar libre alrededor de
 
 ![](logo_LANCIS_area_de_proteccion_02.png)
 
-- - -
+
 
 # Variantes permitidas
 
-Se deberá privilegiar la versión en color sobre fondo blanco y la disposición horizontal.
+Se deberán privilegiar la versión en color sobre fondo blanco y la versión extendida horizontal.
 
 ![](logo_LANCIS_variantes_01.png)
 
-La versión extendida vertical, como ya se mencionó, será de uso excepcional y podrá usarse solo cuando la disposición horizontal no convenga a la composición.
+La versión extendida vertical, como ya se mencionó, será de uso excepcional y podrá usarse solo cuando la disposición así convenga a la composición.
 
 ![](logo_LANCIS_variantes_02.png)
 
-En casos que así lo requieran, se permitirá el uso de versiones en blanco sobre fondo oscuro (calada).
+En casos que así lo requieran, se permitirá el uso de variantes en blanco sobre fondo oscuro (calada).
 
 ![](logo_LANCIS_variantes_03.png)
+<br>
 
 ![](logo_LANCIS_variantes_04.png)
 
- Asímismo se consideran las variantes monocromáticas en negro sobre fondo claro.
+ Asímismo se consideran variantes monocromáticas en negro sobre fondo claro.
 
 ![](logo_LANCIS_variantes_05.png)
 
@@ -107,12 +108,11 @@ Parte importante de este manual consiste en especificar qué usos del logotipo *
 - No modificar proporciones
 ![](logo_LANCIS_usos_incorrectos_02.png)
 
-- No inclinar
+- No usar el símbolo sin la tipografía. No inclinar
 ![](logo_LANCIS_usos_incorrectos_03.png)
 
-- No usar el símbolo sin la tipografía, modificar la tipografía o cambiar la fuente tipográfica
+- No cambiar la posición de la tipografía o cambiar la fuente tipográfica
 ![](logo_LANCIS_usos_incorrectos_04.png)
-
 
 - No añadir elementos (como marcos, plecas, etc.) o agregar sombras o efectos
 ![](logo_LANCIS_usos_incorrectos_05.png)
