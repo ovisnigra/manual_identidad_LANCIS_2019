@@ -12,7 +12,7 @@ El propósito del presente manual es servir como guía de uso de la imagen insti
 
 ## El enlace borromeo
 
-Aunque en ocasiones se le llame _nudo_ borromeo, se trata de un enlace, ya que está formado por más de un elemento. El enlace borromeo debe su nombre a la familia italiana que desde el siglo XV lo utilizó en su escudo de armas. El uso de este símbolo en la península italiana parece remontarse a un emblema de la ciudad de Cremona, de donde lo tomó Francesco Sforza para otorgarlo a la familia Borromeo (ca. 1450).
+Aunque en ocasiones se le llame _nudo_ borromeo, se trata de un enlace, ya que está formado por más de un elemento. El enlace borromeo debe su nombre a la familia italiana que desde el siglo XV lo utilizó en su escudo de armas. El uso de este símbolo en la península italiana parece remontarse a un emblema de la ciudad de Cremona, de donde lo tomó Francesco Sforza para luego otorgarlo a la familia Borromeo (ca. 1450).
 
 Al igual que muchas formas y símbolos de la humanidad, es posible encontrar enlaces de este tipo en figuras pertenecientes a distintas culturas y tiempos. El _Valknut,_ por ejemplo, es un símbolo nórdico formado por tres triángulos entrelazados a manera de aros borromeos; se utilizó en Suecia desde el siglo IX.
 
@@ -24,13 +24,17 @@ Este enlace tiene la particularidad de que un aro une a los otros dos, es decir,
 
 # El logotipo del LANCIS
 
-Aunque su forma se inspire en elementos orgánicos (guijarros, hojas, gotas de agua), el logotipo es completamente abstracto. Sin embargo, retoma la forma topológica de los aros borromeos para aprovechar las múltiples alegorías e interpretaciones que pueden derivarse de esta figura como símbolo de unión. En el ámbito de las Ciencias de la Sostenibilidad hay varias interpretaciones posibles. Tres ámbitos: biológico, económico y social; tres actores: gobierno, sociedad y academia; así como un laboratorio inicialmete conformado por tres unidades de investigación. El logotipo, como ya dijimos, es una abstracción, todas estas interpretaciones no se deducen por sí solas, más bien proveendrán de nuestra propia visión institucional.
+Aunque su forma se inspire en elementos orgánicos (guijarros, hojas, gotas de agua), el logotipo del LANCIS es completamente abstracto, sin embargo, retoma la forma topológica de los aros borromeos para aprovechar las múltiples alegorías e interpretaciones que pueden desprenderse de esta figura como símbolo de unión. En el ámbito de las Ciencias de la Sostenibilidad hay varias interpretaciones posibles (tres ámbitos: biológico, económico y social; tres actores: gobierno, sociedad y academia; así como un laboratorio inicialmete conformado por tres unidades de investigación).
 
-Se cuenta con dos versiones principales: el logotipo oficial y la versión extendida con el nombre completo de la institución.
+Los colores se escogieron pensando en asociaciones con la naturaleza: verde y azul claro, incorporando además el azul oscuro distintivo de la UNAM, sede del LANCIS.
+
+El logotipo, como ya dijimos, es una abstracción, todas estas interpretaciones no se deducen por sí solas, más bien surgen de nuestra propia visión institucional.
+
+Como norma se usarán dos versiones principales: el logotipo oficial (formado por el símbolo y el nombre) y la versión extendida con el nombre completo de la institución.
 
 ![](logo_LANCIS_variantes_01.png)
 
-La versión extendida vertical podrá usarse solo cuando la disposición horizontal no convenga a la composición.
+La versión extendida vertical se usará solo cuando la disposición horizontal no convenga a la composición.
 
 ![](logo_LANCIS_variantes_02.png)
 
@@ -48,11 +52,11 @@ En la versión extendida del logotipo, se utiliza además, una pleca vertical y 
 
 # Colores
 
-Se proporcionan los valores para cada uno de los principales modelos de color.
+Se utilizan cuatro colores, tres para cada uno de los aros y negro para la tipografía. Se proporcionan valores para cuatro de los principales modelos de color.
 
 ![](logo_LANCIS_colores.png)
 
-La elección de cada modelo dependerá del destino final que se requiera. En general, el catálogo Pantone y el modelo CMYK (valores de cian, magenta, amarillo y negro), se usan en procesos de impresión; mientras que hexadecimal y RGB (rojo, verde, azul), se usan para desplegar en pantalla.
+La elección de cada modelo dependerá del destino final que se requiera. En general, el catálogo Pantone y el modelo CMYK (valores de cian, magenta, amarillo y negro), se usan en procesos de impresión; mientras que el sistema hexadecimal y RGB (rojo, verde, azul), sirven para desplegarse en pantalla.
 
 
 # Proporciones
@@ -74,6 +78,26 @@ El área de protección es el espacio mínimo que debe quedar libre alrededor de
 
 ![](logo_LANCIS_area_de_proteccion_02.png)
 
+# Tamaño mínimo de impresión
+
+**PENDIENTE** TEXTO
+
+
+# Fuentes tipográficas
+
+El logotipo utiliza la fuente Cronos Pro distribuída por Adobe. Esta fuente cuenta con una amplia variedad de pesos, pero en nuestra imagen utilizamos solo tres: _Semibold Display_ para el nombre, _Light_ para las versiones extendidas y _Light Caption_ para las versiones caladas.
+
+![](logo_LANCIS_tipografia_01.png)
+
+El _track_ corresponde al ajuste óptico utilizado en el espaciado de las letras.
+
+## Fuentes auxiliares
+
+Las fuentes auxiliares son las que utilizaremos en documentos y plantillas generados en el LANCIS. Se proponen dos fuentes auxiliares. Chaparral Pro distribuida por Adobe y Calibri de distribución gratuita con el sistema operativo Windows.
+
+![](logo_LANCIS_tipografia_02.png)
+
+El uso detallado de estas fuentes se implementa en las plantillas mismas, pero en líneas generales se utilizan las versiones _Light_ para cuerpo de texto y _Semibold_ y _Bold_ para títulos.
 
 
 # Variantes permitidas
@@ -119,21 +143,3 @@ Parte importante de este manual consiste en especificar qué usos del logotipo *
 
 - No usar como patrón repetido o calar sobre un fondo que no sea contínuo
 ![](logo_LANCIS_usos_incorrectos_06.png)
-
-
-
-# Fuentes tipográficas
-
-**PENDIENTE** Para la documentación generada por el laboratorio, se propone el uso de dos fuentes tipográficas: Cronos Pro y Chaparral Pro. Mayores detalles sobre su uso correcto se darán en las plantillas propuestas, anexas a este documento.
-
-## Cronos Pro
-
-La fuente Cronos Pro, es una fuente tipográfica en formato OpenType que contiene una gama muy amplia de pesos y variantes. Además de usarse en el logotipo oficial. Se propone su uso en encabezados, figuras, gráficas, mapas y tablas y todo aquello que no sea cuerpo de texto. Deben combinarse los pesos de la siguiente manera: Light - Semibold.  Regular - Bold.
-
-
-## Chaparral Pro
-
-
-La fuente Chaparral Pro, es una fuente tipográfica en formato OpenType que contiene una gama muy amplia de pesos y variantes. Se propone su uso en cuerpo de texto. Deben combinarse los pesos de la siguiente manera:
-
-Light - Semibold.  Regular - Bold.
