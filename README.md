@@ -52,7 +52,7 @@ En la versión extendida del logotipo, se utiliza además, una pleca vertical y 
 
 # Colores
 
-Se utilizan cuatro colores, tres para cada uno de los aros y negro para la tipografía. Se proporcionan valores para cuatro de los principales modelos de color.
+Utilizamos cuatro colores, tres para cada uno de los aros y negro para la tipografía. Se proporcionan valores para cuatro de los principales modelos de color.
 
 ![](logo_LANCIS_colores.png)
 
@@ -61,7 +61,7 @@ La elección de cada modelo dependerá del destino final que se requiera. En gen
 
 # Proporciones
 
-Se muestran las proporciones y la retícula de las tres versiones del logotipo, tomando como módulo (x) la altura de una mayúscula.
+Mostramos las proporciones y la retícula de las tres versiones del logotipo, tomando como módulo (x) la altura de una mayúscula.
 
 ![](logo_LANCIS_proporciones_01.png)
 
@@ -77,10 +77,6 @@ El área de protección es el espacio mínimo que debe quedar libre alrededor de
 ![](logo_LANCIS_area_de_proteccion_01.png)
 
 ![](logo_LANCIS_area_de_proteccion_02.png)
-
-# Tamaño mínimo de impresión
-
-**PENDIENTE** TEXTO
 
 
 # Fuentes tipográficas
