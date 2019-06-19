@@ -12,7 +12,7 @@ El propósito del presente manual es servir como guía de uso de la imagen insti
 
 ## El enlace borromeo
 
-Aunque en ocasiones se le llame _nudo_ borromeo, se trata de un enlace, ya que está formado por más de un elemento. El enlace borromeo debe su nombre a la familia italiana que desde el siglo XV lo utilizó en su escudo de armas. El uso de este símbolo en la península italiana parece remontarse a un emblema de la ciudad de Cremona, de donde lo tomó Francesco Sforza para posteriormente otorgarlo a la familia Borromeo, en reconocimiento por su ayuda en la defensa de Milán (ca. 1450).
+Aunque en ocasiones se le llame _nudo_ borromeo, se trata de un enlace, ya que está formado por más de un elemento. El enlace borromeo debe su nombre a la familia italiana que desde el siglo XV lo utilizó en su escudo de armas. El uso de este símbolo en la península italiana parece remontarse a un emblema de la ciudad de Cremona, de donde lo tomó Francesco Sforza para otorgarlo a la familia Borromeo (ca. 1450).
 
 Al igual que muchas formas y símbolos de la humanidad, es posible encontrar enlaces de este tipo en figuras pertenecientes a distintas culturas y tiempos. El _Valknut,_ por ejemplo, es un símbolo nórdico formado por tres triángulos entrelazados a manera de aros borromeos; se utilizó en Suecia desde el siglo IX.
 
@@ -24,7 +24,7 @@ Este enlace tiene la particularidad de que un aro une a los otros dos, es decir,
 
 # El logotipo del LANCIS
 
-Aunque su forma se inspire en elementos orgánicos (guijarros, hojas, gotas de agua), el logotipo es completamente abstracto; sin embargo, retoma la forma topológica de los aros borromeos para aprovechar las múltiples alegorías e interpretaciones que pueden derivarse de esta figura como símbolo de unión. En el ámbito de las Ciencias de la Sostenibilidad hay varias interpretaciones posibles. Tres ámbitos: biológico, económico y social; tres actores: gobierno, sociedad y academia; así como un laboratorio inicialmete conformado por tres unidades de investigación. El logotipo, como ya dijimos, es una abstracción, todas estas interpretaciones no se deducen por sí solas, más bien proveendrán de nuestra propia visión institucional.
+Aunque su forma se inspire en elementos orgánicos (guijarros, hojas, gotas de agua), el logotipo es completamente abstracto. Sin embargo, retoma la forma topológica de los aros borromeos para aprovechar las múltiples alegorías e interpretaciones que pueden derivarse de esta figura como símbolo de unión. En el ámbito de las Ciencias de la Sostenibilidad hay varias interpretaciones posibles. Tres ámbitos: biológico, económico y social; tres actores: gobierno, sociedad y academia; así como un laboratorio inicialmete conformado por tres unidades de investigación. El logotipo, como ya dijimos, es una abstracción, todas estas interpretaciones no se deducen por sí solas, más bien proveendrán de nuestra propia visión institucional.
 
 Se cuenta con dos versiones principales: el logotipo oficial y la versión extendida con el nombre completo de la institución.
 
@@ -41,14 +41,14 @@ El logotipo esta compuesto por dos elementos inseparables: el símbolo y la tipo
 
 ![](logo_LANCIS_elementos_terminologia_01.png)
 
-En la versión extendida del logotipo, utilizaremos además, una pleca vertical y otro elemento tipográfico que resulta de poner el nombre completo de la institución.
+En la versión extendida del logotipo, se utiliza además, una pleca vertical y otro elemento tipográfico que resulta de poner el nombre completo de la institución.
 
 ![](logo_LANCIS_elementos_terminologia_02.png)
 
 
 # Colores
 
-Presentamos los valores para cada uno de los principales modelos de color.
+Se proporcionan los valores para cada uno de los principales modelos de color.
 
 ![](logo_LANCIS_colores.png)
 
@@ -57,7 +57,7 @@ La elección de cada modelo dependerá del destino final que se requiera. En gen
 
 # Proporciones
 
-Se muestran las proporciones y la retícula de tres versiones del logotipo, tomando como módulo (x) la altura de una mayúscula.
+Se muestran las proporciones y la retícula de las tres versiones del logotipo, tomando como módulo (x) la altura de una mayúscula.
 
 ![](logo_LANCIS_proporciones_01.png)
 
@@ -82,11 +82,11 @@ Se deberán privilegiar la versión en color sobre fondo blanco y la versión ex
 
 ![](logo_LANCIS_variantes_01.png)
 
-La versión extendida vertical, como ya se mencionó, será de uso excepcional y podrá usarse solo cuando la disposición así convenga a la composición.
+La versión extendida vertical, como ya se mencionó, será de uso excepcional y podrá usarse solo cuando así convenga a la composición.
 
 ![](logo_LANCIS_variantes_02.png)
 
-En casos que así lo requieran, se permitirá el uso de variantes en blanco sobre fondo oscuro (calada).
+En casos que lo requieran, se permitirá el uso de variantes en blanco sobre fondo oscuro (calados).
 
 ![](logo_LANCIS_variantes_03.png)
 <br>
