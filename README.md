@@ -89,11 +89,9 @@ El _track_ corresponde al ajuste óptico utilizado en el espaciado de las letras
 
 ## Fuentes auxiliares
 
-Las fuentes auxiliares son las que utilizaremos en documentos y plantillas generados en el LANCIS. Se proponen dos fuentes auxiliares. Chaparral Pro distribuida por Adobe y Calibri de distribución gratuita con el sistema operativo Windows.
+Las fuentes auxiliares son las que utilizaremos en documentos y plantillas generados en el LANCIS. Se proponen dos fuentes auxiliares: Chaparral Pro distribuida por Adobe y Calibri de distribución gratuita con el sistema operativo Windows. Se utilizan principalmente los pesos _Light_ para cuerpo de texto y _Semibold_ y _Bold_ para títulos.
 
 ![](logo_LANCIS_tipografia_02.png)
-
-El uso detallado de estas fuentes se implementa en las plantillas mismas, pero en líneas generales se utilizan las versiones _Light_ para cuerpo de texto y _Semibold_ y _Bold_ para títulos.
 
 
 # Variantes permitidas
