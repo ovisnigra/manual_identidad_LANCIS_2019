@@ -1,3 +1,15 @@
-conteo de horas:
+```
+conteo de horas previo:
+4 + 4 + 4 + 4 + 2 + 4 + 2 + 4 + 2 = 30
+```
 
-4 + 4 + 4 + 4 + 2 + 4 + 2 = 24
+
+Conteo de horas LANCIS
+======================
+
+| dia       | horas |
+| ---       |  ---: |
+| previos   | 30    |
+| martes 25 | 2     |
+
+TOTAL: 32
