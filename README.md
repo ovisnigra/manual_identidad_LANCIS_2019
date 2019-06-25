@@ -79,9 +79,12 @@ El área de protección es el espacio mínimo que debe quedar libre alrededor de
 ![](fi_identidad_LANCIS_area_de_proteccion_02.png)
 
 
-# Tamaño mínimo de impresión
+# Tamaño mínimo
 
-**PENDIENTE** TEXTO
+El tamaño mínimo en que deba reproducirse el logotipo para segurar buena legibilidad tanto en pantalla como en impreso. Se proporcionan los valores en centímetros y pixeles.
+
+![](fi_identidad_LANCIS_tamano_minimo.png)
+
 
 
 # Fuentes tipográficas
