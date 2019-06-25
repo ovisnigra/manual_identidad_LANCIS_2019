@@ -30,11 +30,11 @@ Los colores se escogieron pensando en asociaciones con la naturaleza: verde y az
 
 El logotipo, como ya dijimos, es una abstracción, todas estas interpretaciones no se deducen por sí solas, más bien surgen de nuestra propia visión institucional.
 
-Como norma se usarán dos versiones principales: el logotipo oficial (formado por el símbolo y el nombre) y la versión extendida con el nombre completo de la institución.
+Como norma, se usarán dos versiones principales: el logotipo oficial (formado por el símbolo y el nombre) y la versión extendida con el nombre completo de la institución.
 
 ![](fi_identidad_LANCIS_variantes_01.png)
 
-La versión extendida vertical se usará solo cuando la disposición horizontal no convenga a la composición.
+Una tercera versión, extendida vertical, se usará solo cuando la disposición horizontal no convenga a la composición.
 
 ![](fi_identidad_LANCIS_variantes_02.png)
 
@@ -61,7 +61,7 @@ La elección de cada modelo dependerá del destino final que se requiera. En gen
 
 # Proporciones
 
-Mostramos las proporciones y la retícula de las tres versiones del logotipo, tomando como módulo (x) la altura de una mayúscula.
+Mostramos las proporciones y la retícula de las tres versiones del logotipo, tomando como módulo _(x)_ la altura de una mayúscula.
 
 ![](fi_identidad_LANCIS_proporciones_01.png)
 
@@ -81,7 +81,7 @@ El área de protección es el espacio mínimo que debe quedar libre alrededor de
 
 # Tamaño mínimo
 
-El tamaño mínimo en que deba reproducirse el logotipo para segurar buena legibilidad tanto en pantalla como en impreso. Se proporcionan los valores en centímetros y pixeles.
+Se refiere al tamaño mínimo en que deba reproducirse el logotipo para segurar buena legibilidad tanto en pantalla como en impreso. Se proporcionan los valores en centímetros y pixeles para todas las variantes.
 
 ![](fi_identidad_LANCIS_tamano_minimo.png)
 
