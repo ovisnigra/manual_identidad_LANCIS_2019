@@ -43,11 +43,11 @@ La versión extendida vertical se usará solo cuando la disposición horizontal 
 
 El logotipo esta compuesto por dos elementos inseparables: el símbolo y la tipografía. Es importante comprender esta idea de unidad ya que nunca se presentan dichos elementos por separado.
 
-![](fi_identidad_LANCIS__elementos_terminologia_01.png)
+![](fi_identidad_LANCIS_elementos_terminologia_01.png)
 
 En la versión extendida del logotipo, se utiliza además, una pleca vertical y otro elemento tipográfico que resulta de poner el nombre completo de la institución.
 
-![](fi_identidad_LANCIS__elementos_terminologia_02.png)
+![](fi_identidad_LANCIS_elementos_terminologia_02.png)
 
 
 # Colores
