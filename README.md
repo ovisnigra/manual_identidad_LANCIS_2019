@@ -5,7 +5,7 @@ title: Manual de identidad gráfica LANCIS
 
 # Presentación
 
-El propósito del presente manual es servir como guía de uso de la imagen institucional del Laboratorio Nacional de las Ciencias de la Sostenibilidad. Debe tomarse como punto de partida para su posterior aplicación a diversas presentaciones. No es la intención de este documento utilizar terminología rebuscada que confunda a quien lo consulte. Se intenta aquí, producir una referencia al alcance de cualquier persona que permita comprender con facilidad cómo debe ser usado el logotipo institucional.
+El presente manual es una guía de uso para la identidad institucional del Laboratorio Nacional de las Ciencias de la Sostenibilidad (LANCIS). Debe servir también, como punto de partida para aplicaciones ulteriores que se puedan desarrollar. No es la intención de este documento utilizar terminología rebuscada que confunda a quien lo consulte, sino brindar una referencia al alcance de cualquier persona que permita comprender con facilidad cómo debe ser usado el logotipo institucional.
 
 
 # Introducción
@@ -52,7 +52,7 @@ En la versión extendida del logotipo, se utiliza además, una pleca vertical y 
 
 # Colores
 
-Utilizamos cuatro colores, tres para cada uno de los aros y negro para la tipografía. Se proporcionan valores para cuatro de los principales modelos de color.
+Utilizamos cuatro colores, tres para cada uno de los aros y negro para la tipografía. Se proporcionan valores para los cuatro principales modelos de color.
 
 ![](fi_identidad_LANCIS_colores.png)
 
@@ -81,7 +81,7 @@ El área de protección es el espacio mínimo que debe quedar libre alrededor de
 
 # Tamaño mínimo
 
-Se refiere al tamaño mínimo en que deba reproducirse el logotipo para segurar buena legibilidad tanto en pantalla como en impreso. Se proporcionan los valores en centímetros y pixeles para todas las variantes.
+Se refiere al tamaño mínimo en que deba reproducirse el logotipo para asegurar buena legibilidad, tanto en impreso como en pantalla. Se proporcionan los valores en centímetros y pixeles para ambas presentaciones.
 
 ![](fi_identidad_LANCIS_tamano_minimo.png)
 
@@ -89,7 +89,7 @@ Se refiere al tamaño mínimo en que deba reproducirse el logotipo para segurar 
 
 # Fuentes tipográficas
 
-El logotipo utiliza la fuente Cronos Pro distribuída por Adobe. Esta fuente cuenta con una amplia variedad de pesos, pero en nuestra imagen utilizamos solo tres: _Semibold Display_ para el nombre, _Light_ para las versiones extendidas y _Light Caption_ para las versiones caladas.
+El logotipo utiliza la fuente Cronos Pro distribuída por Adobe. Esta fuente cuenta con una amplia variedad de pesos, en nuestra imagen utilizamos solo tres: _Semibold Display_ para el nombre, _Light_ para las versiones extendidas y _Light Caption_ para las versiones caladas.
 
 ![](fi_identidad_LANCIS_tipografia_01.png)
 
@@ -112,14 +112,14 @@ La versión extendida vertical, como ya se mencionó, será de uso excepcional y
 
 ![](fi_identidad_LANCIS_variantes_02.png)
 
-En casos que lo requieran, se permitirá el uso de variantes en blanco sobre fondo oscuro (calados).
+En casos especiales que así lo requieran, se permitirá el uso de variantes en blanco sobre fondo oscuro (calados).
 
 ![](fi_identidad_LANCIS_variantes_03.png)
 <br>
 
 ![](fi_identidad_LANCIS_variantes_04.png)
 
- Asímismo se consideran variantes monocromáticas en negro sobre fondo claro.
+Se consideran también variantes monocromáticas en negro sobre fondo claro.
 
 ![](fi_identidad_LANCIS_variantes_05.png)
 
@@ -128,19 +128,20 @@ En casos que lo requieran, se permitirá el uso de variantes en blanco sobre fon
 
 Parte importante de este manual consiste en especificar qué usos del logotipo **no** están permitidos. A continuación se muestran algunos de los casos más importantes:
 
-- No usar colores en escala de grises ni cambiar o modificar colores
+- No usar los colores en escala de grises ni cambiar o modificar colores
 ![](fi_identidad_LANCIS_usos_incorrectos_01.png)
 
 - No modificar proporciones
 ![](fi_identidad_LANCIS_usos_incorrectos_02.png)
 
-- No usar el símbolo sin la tipografía. No inclinar
+- No usar el símbolo sin la tipografía.
+- No inclinar
 ![](fi_identidad_LANCIS_usos_incorrectos_03.png)
 
 - No cambiar la posición de la tipografía o cambiar la fuente tipográfica
 ![](fi_identidad_LANCIS_usos_incorrectos_04.png)
 
-- No añadir elementos (como marcos, plecas, etc.) o agregar sombras o efectos
+- No añadir elementos (como ornamentos, marcos, etc.) o agregar sombras o efectos
 ![](fi_identidad_LANCIS_usos_incorrectos_05.png)
 
 - No usar como patrón repetido o calar sobre un fondo que no sea contínuo
