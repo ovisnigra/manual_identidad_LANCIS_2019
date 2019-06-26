@@ -81,7 +81,7 @@ El área de protección es el espacio mínimo que debe quedar libre alrededor de
 
 # Tamaño mínimo
 
-Se refiere al tamaño mínimo en que deba reproducirse el logotipo para asegurar buena legibilidad, tanto en impreso como en pantalla. Se proporcionan los valores en centímetros y pixeles para ambas presentaciones.
+Se refiere al tamaño mínimo en que deba reproducirse el logotipo para asegurar buena legibilidad, tanto en impreso como en pantalla. Se proporcionan los valores en centímetros y pixeles según cada caso.
 
 ![](fi_identidad_LANCIS_tamano_minimo.png)
 
@@ -89,22 +89,22 @@ Se refiere al tamaño mínimo en que deba reproducirse el logotipo para asegurar
 
 # Fuentes tipográficas
 
-El logotipo utiliza la fuente Cronos Pro distribuída por Adobe. Esta fuente cuenta con una amplia variedad de pesos, en nuestra imagen utilizamos solo tres: _Semibold Display_ para el nombre, _Light_ para las versiones extendidas y _Light Caption_ para las versiones caladas.
+El logotipo utiliza la fuente Cronos Pro distribuída por Adobe. Esta fuente cuenta con una amplia variedad de pesos de los cuales utilizamos solo tres: _Semibold Display_ para el nombre, _Light_ para las versiones extendidas y _Light Caption_ para las versiones caladas.
 
 ![](fi_identidad_LANCIS_tipografia_01.png)
 
-El _track_ corresponde al ajuste óptico utilizado en el espaciado de las letras.
+El _track_ se refiere al ajuste óptico utilizado en el espaciado de las letras.
 
 ## Fuentes auxiliares
 
-Las fuentes auxiliares son las que utilizaremos en documentos y plantillas generados en el LANCIS. Se proponen dos fuentes auxiliares: Chaparral Pro distribuida por Adobe y Calibri de distribución gratuita con el sistema operativo Windows. Se utilizan principalmente los pesos _Light_ para cuerpo de texto y _Semibold_ y _Bold_ para títulos.
+Las fuentes auxiliares son las que utilizaremos en documentos y plantillas generados en el LANCIS. Se proponen dos fuentes auxiliares: Chaparral Pro distribuida por Adobe y Calibri de distribución gratuita con el sistema operativo Windows. Se utilizan principalmente los pesos _Light_ para cuerpo de texto y _Semibold_ o _Bold_ para títulos.
 
 ![](fi_identidad_LANCIS_tipografia_02.png)
 
 
 # Variantes permitidas
 
-Se deberán privilegiar la versión en color sobre fondo blanco y la versión extendida horizontal.
+Se deberá privilegiar el uso de la versión en color sobre fondo blanco y de la versión extendida horizontal.
 
 ![](fi_identidad_LANCIS_variantes_01.png)
 
@@ -126,7 +126,7 @@ Se consideran también variantes monocromáticas en negro sobre fondo claro.
 
 # Usos incorrectos
 
-Parte importante de este manual consiste en especificar qué usos del logotipo **no** están permitidos. A continuación se muestran algunos de los casos más importantes:
+Parte importante de este manual consiste en especificar qué usos del logotipo **no** están permitidos. A continuación se muestran los casos más importantes:
 
 - No usar los colores en escala de grises ni cambiar o modificar colores
 ![](fi_identidad_LANCIS_usos_incorrectos_01.png)
